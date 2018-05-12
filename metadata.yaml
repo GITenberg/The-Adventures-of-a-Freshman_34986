@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37371
     wikipedia: http://en.wikipedia.org/wiki/Jesse_Lynch_Williams
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34986#The-Adventures-of-a-Freshman
 gutenberg_issued: '2011-01-17'
 gutenberg_type: Text
 identifiers:
